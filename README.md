@@ -1,2 +1,2 @@
 # MAILxDBxSERVER
-A Java based Grapical-UserInterface Application that connected you with your favorite POP3/SMB Mail-Provider. It creates a local SQL-Database in which your Mails are stored into.📬✉️
+A Java based GrapicalUserInterface Application, that connected you with your favorite SMB Mail-Provider. It creates a local SQL-Database where all your Mails from external Providers such Gmail,Yahoo,Outlook etc are backed up on your Disk. 📤📬
