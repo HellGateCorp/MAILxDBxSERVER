@@ -13,7 +13,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-//ACHTUNG!! Das Programm lässt sich nur ausführen, wenn derby.jar eingebunden ist
+//ACHTUNG!! Das Programm lässt sich nur ausführen, wenn derby.jar eingebunden ist und die Variablen richtig gesetzt sind
 
 public class MiniDBTest extends JFrame {
 	//automatisch über Eclipse erzeugt
