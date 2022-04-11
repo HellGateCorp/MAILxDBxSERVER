@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 import javax.swing.JOptionPane;
 
-//ACHTUNG!! Das Programm lässt sich nur ausführen, wenn derby.jar eingebunden ist
+//ACHTUNG!! Das Programm lässt sich nur ausführen, wenn derby.jar eingebunden ist und die Variablen richtig gestzt sind
 
 public class MiniDBEinfach{
 	
