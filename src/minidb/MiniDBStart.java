@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-
+//DB Init 
 public class MiniDBStart extends JFrame{
 	
 	//automatisch über Eclipse erzeugt
